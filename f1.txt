@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 master branch
 master branch
 master branch
@@ -8,3 +9,11 @@ dfadfdfkfjfljswdkljfweo
 master branch
 master branch
 master branch
+=======
+exp branch
+exp branch
+exp branch
+exp branch
+f1.txt 1:42
+git exp생성
+>>>>>>> exp
