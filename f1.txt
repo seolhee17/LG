@@ -16,4 +16,12 @@ exp branch
 exp branch
 f1.txt 1:42
 git exp생성
+<<<<<<< HEAD
+>>>>>>> exp
+=======
+
+coffee
+geen
+forest
+cake 2:37
 >>>>>>> exp
